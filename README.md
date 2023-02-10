@@ -43,7 +43,8 @@ fn	@	bootstrap:100
 1	@	log.js:59
 __webpack_require__	@	bootstrap:789
 (anonymous)	@	bootstrap:856
-(anonymous)	@	bootstrap:856```
+(anonymous)	@	bootstrap:856
+```
 
 To reproduce the error:
 
